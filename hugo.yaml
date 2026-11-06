@@ -32,7 +32,7 @@ params:
   profileMode:
     enabled: true
     title: "Yaojie Shen" # optional default will be site title
-    subtitle: "@Intelligent Creation, ByteDance Inc."
+    subtitle: "@TikTok, Creation Intelligence"
     imageUrl: "images/avatar.jpg" # optional
     imageTitle: "avatar" # optional
     imageWidth: 120 # custom size
